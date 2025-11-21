@@ -111,7 +111,7 @@ function updateActiveNavLink() {
 
 // Smooth scrolling functionality
 function initializeSmoothScrolling() {
-    // Handle all anchor links
+    // Handle internal navigation links only
     document.querySelectorAll('a[href^="#"]').forEach(link => {
         link.addEventListener('click', function(e) {
             e.preventDefault();

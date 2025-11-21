@@ -445,6 +445,9 @@ body {
     text-decoration: none;
     transition: var(--transition-fast);
     border: 1px solid var(--border-color);
+    position: relative;
+    z-index: 10;
+    cursor: pointer;
 }
 
 .social-links a:hover {
