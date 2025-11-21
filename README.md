@@ -90,7 +90,7 @@ Portfolio/
 │       ├── ritesh-profile.jpg          # Ritesh's profile photo
 │       ├── harshwardhan-profile.jpg    # Harshwardhan's profile photo
 │       ├── tanu-profile.jpg            # Tanu's profile photo
-│       └── george-profile-new.jpg      # George's profile photo
+│       └── george-profile-fixed.jpg    # George's profile photo
 ├── css/
 │   └── styles.css                      # Main stylesheet with responsive design
 ├── js/
